@@ -1,0 +1,22 @@
+Order_ID,Product,Category,Quantity,Price,Region,Customer_Rating
+1001,Laptop,Electronics,2,55000,South,4.5
+1002,Mouse,Electronics,5,800,North,4.0
+1003,Keyboard,Electronics,3,1500,East,4.2
+1004,Chair,Furniture,2,4500,West,3.8
+1005,Table,Furniture,1,7000,South,4.5
+1006,Monitor,Electronics,2,12000,North,4.1
+1007,Desk,Furniture,1,9000,East,4.0
+1008,Headphones,Electronics,4,2500,West,4.3
+1009,Printer,Electronics,1,15000,South,3.9
+1010,Notebook,Stationery,10,100,North,4.6
+1011,Pen,Stationery,20,50,East,4.2
+1012,Backpack,Accessories,3,1200,West,4.4
+1013,Webcam,Electronics,2,3500,South,
+1014,USB Cable,Electronics,5,400,North,4.1
+1015,Office Lamp,Furniture,3,1800,East,4.0
+1016,Calculator,Stationery,4,600,West,3.7
+1017,Phone,Electronics,2,30000,South,4.5
+1018,Tablet,Electronics,1,22000,North,4.3
+1019,Marker,Stationery,8,80,East,4.1
+1020,File Folder,Stationery,15,60,West,4.0
+1020,File Folder,Stationery,15,60,West,4.0
